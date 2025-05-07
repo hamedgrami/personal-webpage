@@ -38,7 +38,4 @@ A modern, customizable personal website for scientists and researchers with an i
 
 ### Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/scientist-website.git
-   cd scientist-website
+1. Clone the repository
